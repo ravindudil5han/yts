@@ -17,7 +17,7 @@ A Node.js library for scraping torrent data from YTS.
 You can install the `yts` library via npm:
 
 ```bash
-npm install @@dil5han/yts
+npm install @dil5han/yts
 ```
 
 ## Usage
