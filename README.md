@@ -7,8 +7,8 @@
 
 # YTS Torrent Search
 
-[![npm version](https://img.shields.io/npm/v/@your-username/yts)](https://www.npmjs.com/package/@your-username/yts)
-[![License](https://img.shields.io/github/license/your-username/yts)](LICENSE)
+[![npm version](https://img.shields.io/npm/v/@dil5han/yts)](https://www.npmjs.com/package/@dil5han/yts)
+[![License](https://img.shields.io/github/license/ravindudil5han/yts)](LICENSE)
 
 A Node.js library for scraping torrent data from YTS.
 
